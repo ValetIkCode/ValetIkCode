@@ -4,7 +4,7 @@ I'm **Valeriy**, and I'm just starting out with Python. I'm super excited to lea
 
 ## 🚀 Interests:
 
-- **Python:** My primary language, always honing my skills and exploring new libraries.
+- **Python:** My primary language, always improving my skills and exploring new libraries.
 - **Web Development:** Keen on learning new frameworks like Flask for dynamic web applications.
 - **Communication:** Passionate about effective collaboration and clear communication in tech projects. 
 - **Open Source:** Excited about contributing to open-source projects and learning from the community.
