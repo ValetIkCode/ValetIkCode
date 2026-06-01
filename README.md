@@ -46,9 +46,11 @@ I want to become better at programming step by step and build a strong foundatio
 ## Tech stack
 
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python)
+![JAVA](https://img.shields.io/badge/Java-111111?style=for-the-badge\&logo=java)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge\&logo=visualstudiocode)
+
 
 ---
 
